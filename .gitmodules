@@ -1,0 +1,3 @@
+[submodule "img-folder"]
+	path = img-folder
+	url = git@github.com:fireeeeeeeee/img-folder.git
